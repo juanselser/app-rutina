@@ -7,9 +7,6 @@ Original file is located at
     https://colab.research.google.com/drive/1_sxh1fcK5UxfZNhMBBYW2U0xnAZm_CGv
 """
 
-pip install streamlit
-import streamlit as st
-
 # Diccionario con las rutinas por día
 rutinas = {
     "Día 1 – Push": [
